@@ -501,6 +501,9 @@ a:focus {
 .slider_section .img-box img {
   width: 100%;
 }
+.g-pic{
+  border-radius: 100%;
+}
 
 .slider_section .carousel-indicators {
   position: unset;
